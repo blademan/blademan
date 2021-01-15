@@ -27,7 +27,7 @@
 - 💬 **Ask me about** Anything that I can help you with                  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blademan&layout=compact" alt="blademan" /></br>
      
 - 📫 How to reach me: </br></br>
-       <a href="https://www.linkedin.com/in/frontpx/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
+       <a href="https://www.linkedin.com/in/frontpx/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> </br>
     
 - 😄 Pronouns: He
 
