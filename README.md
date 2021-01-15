@@ -22,7 +22,7 @@
     * PHP
                           
                           
-- 🤔 **I’m looking for help with** ;)
+- 🤔 **I’m looking for help with** Js React
 
 - 💬 **Ask me about** Anything that I can help you with    </br></br>              <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blademan&layout=compact" alt="blademan" /></br>
      
