@@ -1,69 +1,61 @@
-# Hi, I'm Eduard 👋
-
-### Senior WordPress Engineer | Automation Specialist | Technical Partner
-
-I turn complex Figma designs into high-performance, maintainable WordPress ecosystems. With **5+ years of experience**, I specialize in modernizing legacy workflows, automating maintenance for **100+ concurrent projects**, and delivering precise technical estimations that protect profit margins.
-
-**🚀 My Superpower:** I bridge the gap between Western business requirements and technical execution, leveraging trilingual fluency (EN/LV/RU) to ensure seamless delivery in international teams.
-
----
-
-## 🛠 Tech Stack & Tools
-
-### Core Development
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Modern WP Architecture (Roots.io)
-![Bedrock](https://img.shields.io/badge/Bedrock-Roots.io-525ddc?style=for-the-badge&logo=wordpress)
-![Sage](https://img.shields.io/badge/Sage_Theme-525ddc?style=for-the-badge&logo=laravel)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-
-### Automation & DevOps
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![DDEV](https://img.shields.io/badge/DDEV-Project-blue?style=for-the-badge)
-![Cloudways](https://img.shields.io/badge/Cloudways-2C3552?style=for-the-badge&logo=cloudways&logoColor=white)
-
-### Design & AI
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
-## 🔭 Current Focus & Lab Projects
-
-I am currently shifting from manual maintenance to **AI-driven DevOps**, building systems that manage themselves.
-
-- **The Sentinel (In Progress):** Automated watchdog using **n8n + OpenAI + MainWP** to monitor logs across 100+ sites and dispatch fixes or alerts via Telegram.
-- **Modern WP Boilerplate:** Bedrock + DDEV setup optimized for Cloudways atomic deployments using GitHub Actions.
-
----
-
-## 💼 What I Bring to the Table
-
-1. **Pixel-Perfect Execution** – Component-based ACF/Gutenberg systems matching Figma precisely.
-2. **Maintenance at Scale** – 100+ production sites with 99.9% uptime.
-3. **Financial Accuracy** – Strong project estimation and scope control.
-4. **Communication Bridge** – Latvian (Native), Russian (Fluent), English (Professional).
-
----
-
-## 📈 GitHub Stats
+# Eduard 👋
+### **Senior WordPress Architect | Technical Partner | Automation Lead**
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frontpx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontpx&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=frontpx&label=Profile%20views&color=0e75b6&style=flat" alt="frontpx" />
 </p>
+
+I don't just build websites; I engineer **High-Performance Digital Assets**. With **5+ years of experience in top-tier agencies**, I specialize in transforming complex Figma visions into pixel-perfect, GSAP-animated, and architecturally superior WordPress ecosystems. 
+
+I am the bridge between a Project Manager's vision and technical reality.
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ The "Backend as Art" Philosophy
+Most developers create a mess of custom fields. I build **Data Architectures**. 
 
-I am open to **Remote / Contract** roles.
+* **ACF Pro Masterclass:** I don't just "add fields." I design structured, intuitive backend experiences that look like a work of art. My backends are built for humans to manage and for machines to scale.
+* **Figma to GSAP:** 1:1 translation from design to life. I specialize in high-end frontend interactions and GSAP animations that don't compromise site performance.
+* **Zero-Debt Infrastructure:** From local dev environments to staging and flawless **Go-Live** procedures. I handle the entire lifecycle: Dev Setups, Staging, Deployments, and Proactive Backups.
 
-- LinkedIn: https://www.linkedin.com/in/frontpx  
-- Email: mailto:dev@frontpx.com
+---
+
+## 💼 Your Technical Partner in the Room
+I don't hide behind a screen. I support Project Managers as a **Technical Representative** in Zoom/Google Meet sessions:
+- **Client Facing:** Translating "tech-speak" into business value for high-ticket clients.
+- **Problem Solver:** "See a problem, jump in, fix it." I operate with high availability and a "mission-critical" mindset.
+- **Strategic Estimation:** Providing accurate scopes and preventing technical debt before the first line of code is written.
+
+---
+
+## 🏗️ Tech Stack & Operations
+
+| Discipline | Tools & Expertise |
+| :--- | :--- |
+| **WP Engine** | Custom Theme Development, ACF Pro (Architectural Level), Roots.io |
+| **Frontend** | GSAP, TailwindCSS, Svelte, Vue, Modern JS (ES6+) |
+| **DevOps** | Coolify, Cloudways, Docker, CI/CD, Staging/Production Management |
+| **Automation** | n8n, ActivePieces, AI-Agentic Workflows |
+
+---
+
+## 🔭 Featured Systems
+
+* **[The Sentinel](https://github.com/frontpx/sentinel):** My flagship AI watchdog. An autonomous system that monitors 100+ sites, analyzes logs via LLMs, and auto-repairs common issues.
+* **[Clean-Code Boilerplate](https://github.com/frontpx/wp-core):** My private framework for building scalable, high-end agency themes with structured ACF logic.
+
+---
+
+## 🌍 Languages & Communication
+I operate fluently across borders, ensuring seamless communication in multicultural teams:
+- **English:** Professional / Technical Lead level.
+- **Latvian:** Native.
+- **Russian:** Fluent.
+
+---
+
+## 📫 Let's Build the Future
+I am looking for high-impact roles where technical excellence meets strategic partnership.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frontpx)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:dev@frontpx.com)
