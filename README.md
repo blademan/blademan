@@ -16,6 +16,7 @@ PHP 8.2+ · ACF Pro · Bricks · Roots · Tailwind CSS · GSAP · Astro · Docke
 
 ## Public work
 
+- [unbranded-handoff](https://github.com/blademan/unbranded-handoff): white-label mu-plugin for client handoff. Agency-branded login, restricted capabilities and a quieter admin for client users, with a fail-safe config
 - [my-ai-wp-workflows](https://github.com/blademan/my-ai-wp-workflows): SOP library for AI-assisted WordPress delivery (theme conversion, MCP setup, PageSpeed)
 
 More case studies and client-approved work live on [unbrandedcode.com](https://unbrandedcode.com).
