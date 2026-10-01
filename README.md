@@ -16,9 +16,9 @@ PHP 8.2+ · ACF Pro · Bricks · Roots · Tailwind CSS · GSAP · Astro · Docke
 
 ## Public work
 
-- [frontpx-theme](https://github.com/blademan/frontpx-theme): custom WordPress theme
-- [wp-roadmap-theme](https://github.com/blademan/wp-roadmap-theme): CPT/SCF-driven, app-like theme with dark mode
 - [my-ai-wp-workflows](https://github.com/blademan/my-ai-wp-workflows): SOP library for AI-assisted WordPress delivery (theme conversion, MCP setup, PageSpeed)
+
+More case studies and client-approved work live on [unbrandedcode.com](https://unbrandedcode.com).
 
 ## Contact
 
