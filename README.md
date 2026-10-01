@@ -18,6 +18,7 @@ I build the technical side so the agency keeps the client relationship: custom t
 |---|---|
 | Core | PHP 8.2+, WordPress custom themes and mu-plugins, ACF Pro / SCF, Bricks, ETCH, Roots |
 | Frontend | JavaScript / TypeScript, Tailwind CSS, GSAP, Astro, with React, Vue or Svelte as the project needs |
+| Headless CMS | Directus, Payload CMS, headless WordPress |
 | Performance | Core Web Vitals, FlyingPress, Perfmatters, caching and asset strategy |
 | Delivery | Docker, Coolify, Cloudways, GitHub Actions, local, staging and production workflows |
 | AI and automation | Claude Code, MCP, n8n, SOP-driven AI workflows |
