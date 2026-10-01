@@ -1,4 +1,4 @@
-# Eduard · Senior WordPress engineer
+# Eduard · Senior full-stack engineer & solutions architect
 
 White-label development partner for design agencies, working under the [Unbranded Code](https://unbrandedcode.com) name. Based in Latvia, working across time zones in English, Latvian and Russian.
 
