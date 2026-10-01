@@ -12,7 +12,15 @@ I build the technical side so the agency keeps the client relationship: custom t
 
 ## Stack
 
-PHP 8.2+ · ACF Pro · Bricks · Roots · Tailwind CSS · GSAP · Astro · Docker · Coolify · n8n
+8+ years building and maintaining WordPress for agencies. The stack follows the project, and AI-assisted engineering with Claude Code lets me work in unfamiliar frameworks quickly while keeping the same review, security and performance standards.
+
+| Area | Tools |
+|---|---|
+| Core | PHP 8.2+, WordPress custom themes and mu-plugins, ACF Pro / SCF, Bricks, ETCH, Roots |
+| Frontend | JavaScript / TypeScript, Tailwind CSS, GSAP, Astro, with React, Vue or Svelte as the project needs |
+| Performance | Core Web Vitals, FlyingPress, Perfmatters, caching and asset strategy |
+| Delivery | Docker, Coolify, Cloudways, GitHub Actions, local, staging and production workflows |
+| AI and automation | Claude Code, MCP, n8n, SOP-driven AI workflows |
 
 ## Public work
 
